@@ -1,8 +1,12 @@
-Repository: sheepBAM
-Type: Bash command line tool
-Title: Generation of reference-aligned .bam files from sheep long-range amplicons NGS data
-Description:
-Version: 1.0.0
+# Repository: sheepBAM
+
+## Type: Bash command line tool
+
+## Title: Generation of reference-aligned .bam files from sheep long-range amplicons NGS data
+## Description:
+
+## Version: 1.0.0
+
 Date:
 Maintainer: Karel Vališ <valis.karel@vuzv.cz>
 Author: Karel Vališ <valis.karel@vuzv.cz>, Jitka Kyseĺová <kyselova.jitka@vuzv.cz>, Zuzana Sztankóová <sztankoova.zuzana@vuzv.cz>
