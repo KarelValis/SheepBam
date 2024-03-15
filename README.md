@@ -10,9 +10,9 @@
 
 ## Date: 15.03.2024
 
-## Maintainer: Karel Vališ <valis.karel@vuzv.cz>
+## Maintainer: Karel Vališ (valis.karel@vuzv.cz)
 
-## Author: Karel Vališ <valis.karel@vuzv.cz>, Jitka Kyselová <kyselova.jitka@vuzv.cz>, Zuzana Sztankóová <sztankoova.zuzana@vuzv.cz>
+## Authors: Karel Vališ (valis.karel@vuzv.cz), Jitka Kyselová (kyselova.jitka@vuzv.cz) and Zuzana Sztankóová (sztankoova.zuzana@vuzv.cz)
 
 ## Licence: LGPL-3
 
