@@ -1,10 +1,10 @@
 # Repository: SheepBam
 
-## Type: Bash command line tool
+## Type: Bash command-line tool
 
 ## Title: Generation of reference-aligned .bam files from sheep long-range amplicons NGS data
 
-## Description:
+## Description: Bash command-line tool for the generation of reference-aligned .bam files, Single-nucleotide Polymorphism (SNP) calling and indels view utilizing long-range amplicons Next-Generation Sequencing (NGS) data originated from the sheep genomic DNA. 
 
 ## Version: 1.0.0
 
@@ -46,7 +46,9 @@
 
 ### Ensembl REST API
 
-## SystemRequirements: GNU make
+## SystemRequirements:
+
+### GNU make
 
 ## Views: NGS, fastq, sheep, Genomics, SNP calling, InDels view
 
