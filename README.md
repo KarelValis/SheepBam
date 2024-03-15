@@ -50,7 +50,7 @@
 
 ## Views: NGS, fastq, sheep, Genomics, SNP calling, InDels view
 
-## URL:
+## URL: https://github.com/KarelValis/SheepBam/
 
 # Acknowledgement:
 
