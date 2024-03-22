@@ -1,6 +1,6 @@
 # Repository: SheepBam
 
-## Type: Bash command-line tool
+## Type: Bash command-line toolkit
 
 ## Title: Generation of compressed reference-aligned .bam files from sheep long-range amplicons NGS data
 
