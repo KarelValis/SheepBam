@@ -2,9 +2,9 @@
 
 ## Type: Bash command-line tool
 
-## Title: Generation of reference-aligned .bam files from sheep long-range amplicons NGS data
+## Title: Generation of compressed reference-aligned .bam files from sheep long-range amplicons NGS data
 
-## Description: Bash command-line tool for the generation of reference-aligned .bam files, Single-nucleotide Polymorphism (SNP) calling and indels view utilizing long-range amplicons Next-Generation Sequencing (NGS) data originated from the sheep genomic DNA. 
+## Description: Bash command-line toolkit for the generation of compressed reference-aligned .bam files through the Burrows–Wheeler transform, Single-nucleotide Polymorphism (SNP) calling and indels view utilizing long-range amplicons Next-Generation Sequencing (NGS) data originated from the sheep genomic DNA. 
 
 ## Version: 1.0.0
 
