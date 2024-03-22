@@ -16,11 +16,11 @@
 
 ## Licence: LGPL-3
 
-## LazyLoad: no
-
 ## Depends:
 
 ### Linux (Debian forks)
+
+### curl
 
 ### Python (>= 3.0)
 
@@ -44,13 +44,27 @@
 
 ## LinkingTo:
 
-### Ensembl REST API
+### NCBI database
 
 ## SystemRequirements:
 
-### GNU make
+### GNU
 
-## Views: NGS, fastq, sheep, Genomics, SNP calling, InDels view
+## Views:
+
+### The Burrows–Wheeler transform
+
+### NGS
+
+### fastq
+
+### Sheep
+
+### Genomics
+
+### SNP calling
+
+### InDels view
 
 ## URL: https://github.com/KarelValis/SheepBam/
 
