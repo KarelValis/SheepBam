@@ -1,4 +1,4 @@
-# Repository: SheepBam
+# Repository: SheepBam :sheep:
 
 ## Type: Bash command-line toolkit
 
